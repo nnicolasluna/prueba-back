@@ -1,4 +1,5 @@
 # kernoTec Backend
+##
 SPRING BOOT 
-TYPE: MAVEN
-JAVA VERSION: 17
+## TYPE: MAVEN
+### JAVA VERSION: 17
